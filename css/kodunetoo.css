@@ -67,8 +67,6 @@ body {
     100% {right: 450px;}
 }
     
-}
-
 .koostisainete table {
     border: 1px solid black;
     margin: 0 auto;
@@ -84,14 +82,11 @@ body {
     animation-duration: 6s;
     animation-fill-mode: forwards;
     animation-delay: 6s;
-    
-    
 }
 
 @keyframes textleft {
     0% {left: -1000px; opacity: 0;}
     100% {left: 500px; opacity: 1;}
-}
 }
 
 .valmistamine ol {
